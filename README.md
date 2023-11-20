@@ -7,15 +7,15 @@ Preferencje dotyczące nart (inny sprzęt pomijamy) zapisano w pliku preferences
   - 1,J,slalom:140;gigant:150
   - 2,A,race:175,allmountain:175
   - 3,C,carving:120
-  ...
-  gdzie id reprezentuje identyfikator uczestnika, group reprezentuje grupę wiekową, do której dany uczestnik należy, kodowaną jedną literą (C - child, J - junior, A - adult) zaś ski przeznaczone jest na listę preferencji - par określających rodzaj narty oraz jej długość. 
+
+gdzie id reprezentuje identyfikator uczestnika, group reprezentuje grupę wiekową, do której dany uczestnik należy, kodowaną jedną literą (C - child, J - junior, A - adult) zaś ski przeznaczone jest na listę preferencji - par określających rodzaj narty oraz jej długość. 
   
 Ośrodek, do którego dotrzeć mają uczestnicy wyjazdu, ma na swoim stanie narty jak w wykazie zapisanym w pliku wykaz.txt:
   - quantity,ski
   - 3,slalom:130
   - 1,carving:130
   - 2,race:170
-  ...
+
   
 Narty są wypożyczany uczestnikom wyjazdu według specyficznego cennika: dzienny koszt wypożyczenia pary nart jest taki sam dla wszystkich ich rodzajów, obowiązują jednak procentowe zniżki uzależnione od grupy wiekowej wypożyczającego. Zniżki te zapisano w pliku znizki.txt:
   - group,discount
