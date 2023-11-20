@@ -3,7 +3,7 @@
 Podczas laboratorium należy rozwiązać problem optymalizacyjny zdefiniowany poniżej. Załóżmy, że jakaś firma organizuje wyjazd na narty. W wyjeździe tym biorą udział uczestnicy w różnym wieku i o różnych preferencjach co do wykorzystywanego sprzętu. 
 
 Preferencje dotyczące nart (inny sprzęt pomijamy) zapisano w pliku preferences.txt o zawartości:  
-  id,group,skis
+  id,group,skis  \n
   1,J,slalom:140;gigant:150
   2,A,race:175,allmountain:175
   3,C,carving:120
